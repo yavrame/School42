@@ -1,0 +1,9 @@
+ft_printf.out
+libftprintf.a
+run.sh
+srcs/*.o
+main.c
+a.out
+printfTester
+.vscode
+main
